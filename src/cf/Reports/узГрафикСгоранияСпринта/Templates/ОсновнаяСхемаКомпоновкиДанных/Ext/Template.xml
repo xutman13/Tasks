@@ -340,7 +340,7 @@
 					<dcsset:appearance>
 						<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 							<dcscor:parameter>ЦветВДиаграмме</dcscor:parameter>
-							<dcscor:value xsi:type="v8ui:Color">style:ПоясняющийОшибкуТекст</dcscor:value>
+							<dcscor:value xsi:type="v8ui:Color">0:b9627855-6773-4a59-b7d3-f9e2e565cd9e</dcscor:value>
 						</dcscor:item>
 					</dcsset:appearance>
 				</dcsset:item>
@@ -360,7 +360,7 @@
 					<dcsset:appearance>
 						<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 							<dcscor:parameter>ЦветВДиаграмме</dcscor:parameter>
-							<dcscor:value xsi:type="v8ui:Color">style:ФайлЗанятыйТекущимПользователем</dcscor:value>
+							<dcscor:value xsi:type="v8ui:Color">0:47accdc7-8fa0-4996-9305-c42b6ca12df9</dcscor:value>
 						</dcscor:item>
 					</dcsset:appearance>
 				</dcsset:item>
