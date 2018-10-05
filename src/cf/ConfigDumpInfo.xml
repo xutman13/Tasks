@@ -3021,7 +3021,7 @@
 		<Metadata name="CommonTemplate.узМакетJS.Template" id="6afe320f-3f60-4c1c-bc62-8557b4ccde89.0" configVersion="ac0b278324e95a459f0b39479c80a1d800000000"/>
 		<Metadata name="CommonTemplate.узСловарьПоУмолчанию" id="0818b36c-6d27-4459-b995-482bf413cbd6" configVersion="c590ac48d22fa94f81476b5ae6ccb1af00000000"/>
 		<Metadata name="CommonTemplate.узСловарьПоУмолчанию.Template" id="0818b36c-6d27-4459-b995-482bf413cbd6.0" configVersion="055fc7c58272f84e94a33874bfebfdb800000000"/>
-		<Metadata name="Configuration.УправлениеЗадачами" id="12bfe202-d705-438e-89f7-9796c95f9caf" configVersion="e3dd8797cb735e42aa10b7119884c6fe00000000"/>
+		<Metadata name="Configuration.УправлениеЗадачами" id="12bfe202-d705-438e-89f7-9796c95f9caf" configVersion="cdf604bcb646eb4992e69c35c546415f00000000"/>
 		<Metadata name="Configuration.УправлениеЗадачами.ClientApplicationInterface" id="8a2edcd3-6303-487c-a9ea-6a336784ef57.b" configVersion="79d556f24f8e6d45acf349b7124a345600000000"/>
 		<Metadata name="Configuration.УправлениеЗадачами.CommandInterface" id="8a2edcd3-6303-487c-a9ea-6a336784ef57.a" configVersion="ba4f8ee73b54414ca8222fb9e4e7dc9100000000"/>
 		<Metadata name="Configuration.УправлениеЗадачами.HomePageWorkArea" id="8a2edcd3-6303-487c-a9ea-6a336784ef57.8" configVersion="982e3d5d3103d643a8068694e35ae97a00000000"/>
